@@ -8,9 +8,9 @@ const Landing: React.FC =  () => {
       <Card />
 
       <div className="flex flex-row gap-3">
-        <Button title="Small Rounded" style="text-sm rounded-sm" />
-        <Button title="Medium Rounded" style="text-base rounded-md" />
-        <Button title="Large Rounded Full" style="text-lg rounded-full" />
+        <Button title="Small Rounded" styles="text-sm rounded-sm" />
+        <Button title="Medium Rounded" styles="text-base rounded-md" />
+        <Button title="Large Rounded Full" styles="text-lg rounded-full" />
         
       </div>
     </div>
